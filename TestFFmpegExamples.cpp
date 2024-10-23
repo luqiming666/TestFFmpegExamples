@@ -6,7 +6,6 @@
 
 int main(int argc, char** argv)
 {
-    std::cout << "Hello World!\n";
     demux_decode_main(argc, argv);
 }
 
