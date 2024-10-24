@@ -24,6 +24,9 @@
     <ClCompile Include="scale_video.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="show_metadata.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="ffmpeg_examples_header.h">
