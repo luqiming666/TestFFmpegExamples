@@ -149,6 +149,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="demux_decode.c" />
+    <ClCompile Include="scale_video.c" />
     <ClCompile Include="TestFFmpegExamples.cpp" />
   </ItemGroup>
   <ItemGroup>

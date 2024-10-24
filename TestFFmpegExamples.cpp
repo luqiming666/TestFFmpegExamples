@@ -6,7 +6,11 @@
 
 int main(int argc, char** argv)
 {
-    demux_decode_main(argc, argv);
+    // D:\Media\bear.wmv D:\vid.dat D:\aud.dat
+    //demux_decode_main(argc, argv);
+
+    // D:\Media\bear.wmv D:\vid.dat 320x240
+    scale_video_main(argc, argv);
 }
 
 // 运行程序: Ctrl + F5 或调试 >“开始执行(不调试)”菜单

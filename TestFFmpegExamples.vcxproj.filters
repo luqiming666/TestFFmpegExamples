@@ -21,6 +21,9 @@
     <ClCompile Include="demux_decode.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="scale_video.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="ffmpeg_examples_header.h">
